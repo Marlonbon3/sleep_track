@@ -44,7 +44,7 @@ export const Contactos = () => {
       <div className="cuadro">
         <div className="cuadro-texto">
           <h2><strong>Contacto</strong></h2>
-          <p className='text1'><strong>Por favor complete el formulario a continuación para ponerse en contacto</strong></p>
+          <p className='text1'><strong>Por favor complete el formulario a continuación para ponerse en contacto olasoadoasdasodoasdo</strong></p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           <p className='p-email'><strong>E-mail:</strong><br />hello@reallygreatsite.com</p>
         </div>
